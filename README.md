@@ -5,27 +5,32 @@
 ### My skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f1f1f1?style=flat-square&logo=JavaScript&logoColor=feca36)
+![Typescript](https://img.shields.io/badge/-Typescript-f1f1f1?style=flat-square&logo=Typescript)
 ![React](https://img.shields.io/badge/-React-f1f1f1?style=flat-square&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-f1f1f1?style=flat-square&logo=Redux&logoColor=000000)
 ![Angular](https://img.shields.io/badge/-Angular-f1f1f1?style=flat-square&logo=Angular&logoColor=red)
 ![Vue](https://img.shields.io/badge/-Vue-f1f1f1?style=flat-square&logo=Vue.js)
-![NodeJS](https://img.shields.io/badge/-NodeJS-f1f1f1?style=flat-square&logo=Node.js)
+![Ionic](https://img.shields.io/badge/-Ionic-f1f1f1?style=flat-square&logo=Ionic)
 
+![NodeJS](https://img.shields.io/badge/-NodeJS-f1f1f1?style=flat-square&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-f1f1f1?style=flat-square&logo=NestJS&logoColor=red)
 ![NextJS](https://img.shields.io/badge/-NextJS-f1f1f1?style=flat-square&logo=Next.js&logoColor=000000)
 ![AWS](https://img.shields.io/badge/-AWS-f1f1f1?style=flat-square&logo=AmazonAWS&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f1f1f1?style=flat-square&logo=PostgreSQL)
-![Typescript](https://img.shields.io/badge/-Typescript-f1f1f1?style=flat-square&logo=Typescript)
-![Ionic](https://img.shields.io/badge/-Ionic-f1f1f1?style=flat-square&logo=Ionic)
 
 ![HTML](https://img.shields.io/badge/-HTML-f1f1f1?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-f1f1f1?style=flat-square&logo=css3&logoColor=cccccc)
 ![Sass](https://img.shields.io/badge/-Sass-f1f1f1?style=flat-square&logo=Sass)
 ![JSS](https://img.shields.io/badge/-JSS-f1f1f1?style=flat-square&logo=JSS&logoColor=feca36)
+![MUI](https://img.shields.io/badge/-MUI-f1f1f1?style=flat-square&logo=MUI)
+
 ![Git](https://img.shields.io/badge/-Git-f1f1f1?style=flat-square&logo=Git)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-f1f1f1?style=flat-square&logo=GitHubActions)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-f1f1f1?style=flat-square&logo=Bitbucket&logoColor=blue)
 
 ![Mocha](https://img.shields.io/badge/-Mocha-f1f1f1?style=flat-square&logo=Mocha)
+![Chai](https://img.shields.io/badge/-Chai-f1f1f1?style=flat-square&logo=Chai&logoColor=000000)
+![TestCafe](https://img.shields.io/badge/-TestCafe-f1f1f1?style=flat-square&logo=TestCafe)
 
 ### 📫 How to reach me:
 
