@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-f1f1f1?style=flat-square&logo=Git)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-f1f1f1?style=flat-square&logo=GitHubActions)
 
-![Mocha](https://img.shields.io/badge/-Mocha-444444?style=flat-square&logo=Mocha)
+![Mocha](https://img.shields.io/badge/-Mocha-f1f1f1?style=flat-square&logo=Mocha)
 
 ### 📫 How to reach me:
 
