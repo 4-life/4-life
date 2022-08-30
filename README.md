@@ -32,7 +32,7 @@
 ![Chai](https://img.shields.io/badge/-Chai-f1f1f1?style=flat-square&logo=Chai&logoColor=000000)
 ![TestCafe](https://img.shields.io/badge/-TestCafe-f1f1f1?style=flat-square&logo=TestCafe)
 
-![VScode](https://img.shields.io/badge/-VScode-f1f1f1?style=flat-square&logo=vsco)
+![VScode](https://img.shields.io/badge/-VScode-f1f1f1?style=flat-square&logo=vsco&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-f1f1f1?style=flat-square&logo=ubuntu)
 
 ### 📫 How to reach me:
