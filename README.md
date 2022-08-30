@@ -32,6 +32,9 @@
 ![Chai](https://img.shields.io/badge/-Chai-f1f1f1?style=flat-square&logo=Chai&logoColor=000000)
 ![TestCafe](https://img.shields.io/badge/-TestCafe-f1f1f1?style=flat-square&logo=TestCafe)
 
+![VScode](https://img.shields.io/badge/-VScode-f1f1f1?style=flat-square&logo=vsco)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-f1f1f1?style=flat-square&logo=ubuntu)
+
 ### 📫 How to reach me:
 
 [![Telegam](https://shields.io/badge/-Telegram-ffffff?logo=telegram&style=social)](https://t.me/js4life)
