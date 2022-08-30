@@ -24,13 +24,14 @@
 ![JSS](https://img.shields.io/badge/-JSS-f1f1f1?style=flat-square&logo=JSS&logoColor=feca36)
 ![MUI](https://img.shields.io/badge/-MUI-f1f1f1?style=flat-square&logo=MUI)
 
-![Git](https://img.shields.io/badge/-Git-f1f1f1?style=flat-square&logo=Git)
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-f1f1f1?style=flat-square&logo=GitHubActions)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-f1f1f1?style=flat-square&logo=Bitbucket&logoColor=blue)
-
 ![Mocha](https://img.shields.io/badge/-Mocha-f1f1f1?style=flat-square&logo=Mocha)
 ![Chai](https://img.shields.io/badge/-Chai-f1f1f1?style=flat-square&logo=Chai&logoColor=000000)
 ![TestCafe](https://img.shields.io/badge/-TestCafe-f1f1f1?style=flat-square&logo=TestCafe)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-f1f1f1?style=flat-square&logo=Puppeteer)
+
+![Git](https://img.shields.io/badge/-Git-f1f1f1?style=flat-square&logo=Git)
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-f1f1f1?style=flat-square&logo=GitHubActions)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-f1f1f1?style=flat-square&logo=Bitbucket&logoColor=blue)
 
 ![VScode](https://img.shields.io/badge/-VScode-f1f1f1?style=flat-square&logo=visualstudiocode&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-f1f1f1?style=flat-square&logo=ubuntu)
